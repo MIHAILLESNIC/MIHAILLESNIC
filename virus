@@ -1,0 +1,5 @@
+<script>
+question = false
+while(!question) question = confirm ('esti pidar')
+if (question) alert('asa si am stiu ebana gandon')
+</script>
